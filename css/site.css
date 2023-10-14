@@ -1,16 +1,6 @@
-h1{
+.title {
     text-align: center;
     font-size: 80px;
     margin:100px 0px;
     color: tomato;
-}
-
-
-a {
-    text-decoration: none;
-    
-}
-
-h2 {
-    text-align: center;
 }
